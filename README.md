@@ -69,14 +69,6 @@ The dashboard helps stakeholders quickly identify trends, track performance, and
 
 ---
 
-## 🔗 Live Preview
-
-If published to Tableau Public, include:
-
-[👉 View Live Dashboard](https://public.tableau.com/...)
-
----
-
 ## 📥 Contact
 
 **Created by**: Dinesh Banjara  
