@@ -1,0 +1,41 @@
+Provider ID,Provider Name,Location,Process Month,Gross Charges ($),Adjustments ($),Payments ($),POS Cash Collected ($),AR Balance ($),AR Snapshot,AR Days,Avg Days to Bill,Payment Rate (%),Visit Count,New Patient (%),Charges per Visit ($),Payments per Visit ($),Pat Payment per Visit ($),RVU Work Unit,Medical Service,Denial Reason
+P1001,Dr. Smith,Clinic A,January 2024,500000,75000,300000,25000,200000,DFNB Beyond Suspense,45,3.2,85,1200,15,416.67,250.00,20.83,1850,Evaluation and Management (E/M) Services,Incomplete Information
+P1001,Dr. Smith,Clinic B,January 2024,350000,52500,210000,18000,140000,DFNB Beyond Suspense,42,3.5,82,850,10,411.76,247.06,21.18,1300,Evaluation and Management (E/M) Services,Incomplete Information
+P1002,Dr. Johnson,Clinic A,January 2024,420000,63000,252000,21000,168000,DFNB Beyond Suspense,40,2.8,88,1050,20,400.00,240.00,20.00,1600,Evaluation and Management (E/M) Services,Incomplete Information
+P1003,Dr. Lee,Clinic C,January 2024,600000,90000,360000,30000,240000,DFNB Beyond Suspense,50,4.0,80,1500,12,400.00,240.00,20.00,2200,Evaluation and Management (E/M) Services,Incorrect Coding
+P1004,Dr. Patel,Clinic B,January 2024,275000,41250,165000,13750,110000,DFNB Beyond Suspense,38,2.5,89,700,18,392.86,235.71,19.64,1100,Evaluation and Management (E/M) Services,Incorrect Coding
+P1005,Dr. Garcia,Clinic D,January 2024,480000,72000,288000,24000,192000,DFNB Beyond Suspense,47,3.8,83,1250,14,384.00,230.40,19.20,1950,Evaluation and Management (E/M) Services,Incomplete Information
+P1001,Dr. Smith,Clinic A,February 2024,520000,78000,312000,26000,208000,DFNB Beyond Suspense,46,3.3,86,1250,16,416.00,249.60,20.80,1900,Evaluation and Management (E/M) Services,Incorrect Coding
+P1002,Dr. Johnson,Clinic A,February 2024,440000,66000,264000,22000,176000,DFNB Beyond Suspense,41,2.9,87,1100,22,400.00,240.00,21.82,1650,Evaluation and Management (E/M) Services,Incomplete Information
+P1006,Dr. Wilson,Clinic C,February 2024,310000,46500,186000,15500,124000,DFNB Beyond Suspense,36,2.4,91,800,25,387.50,232.50,19.38,1200,Imaging and Radiology Services,Incomplete Information
+P1007,Dr. Chen,Clinic D,February 2024,590000,88500,354000,29500,236000,DFNB Beyond Suspense,49,4.1,81,1550,11,380.65,228.39,19.03,2250,Imaging and Radiology Services,Authorization Missing
+P1003,Dr. Lee,Clinic C,March 2024,610000,91500,366000,30500,244000,DFNB Beyond Suspense,51,4.2,80,1600,13,381.25,228.75,19.06,2300,Imaging and Radiology Services,Authorization Missing
+P1004,Dr. Patel,Clinic B,March 2024,290000,43500,174000,14500,116000,DFNB Beyond Suspense,37,2.6,90,750,19,386.67,232.00,19.33,1150,Imaging and Radiology Services,Incorrect Coding
+P1001,Dr. Smith,Clinic B,March 2024,480000,72000,288000,24000,192000,DFNB Beyond Suspense,47,3.8,83,1250,14,384.00,230.40,19.20,1950,Imaging and Radiology Services,Eligibility Issues
+P1002,Dr. Johnson,Clinic A,April 2023,520000,78000,312000,26000,208000,Final Bill,46,3.3,86,1250,16,416.00,249.60,20.80,1900,Imaging and Radiology Services,Eligibility Issues
+P1003,Dr. Lee,Clinic C,April 2023,440000,66000,264000,22000,176000,Final Bill,41,2.9,87,1100,22,400.00,240.00,21.82,1650,Imaging and Radiology Services,Authorization Missing
+P1004,Dr. Patel,Clinic B,April 2023,310000,46500,186000,15500,124000,Final Bill,36,2.4,91,800,25,387.50,232.50,19.38,1200,Imaging and Radiology Services,Authorization Missing
+P1005,Dr. Garcia,Clinic D,May 2023,590000,88500,354000,29500,236000,Final Bill,49,4.1,81,1550,11,380.65,228.39,19.03,2250,Imaging and Radiology Services,Incomplete Information
+P1001,Dr. Smith,Clinic A,May 2023,440000,66000,264000,22000,176000,Final Bill,41,2.9,87,1100,22,400.00,240.00,21.82,1650,Imaging and Radiology Services,Incomplete Information
+P1002,Dr. Johnson,Clinic A,May 2023,310000,46500,186000,15500,124000,Final Bill,36,2.4,91,800,25,387.50,232.50,19.38,1200,Laboratory and Pathology Services,Incomplete Information
+P1006,Dr. Wilson,Clinic C,June 2023,275000,41250,165000,13750,110000,Final Bill,38,2.5,89,700,18,392.86,235.71,19.64,1100,Laboratory and Pathology Services,Incomplete Information
+P1007,Dr. Chen,Clinic D,June 2023,500000,75000,300000,25000,200000,Final Bill,45,3.2,85,1200,15,416.67,250.00,20.83,1850,Laboratory and Pathology Services,Authorization Missing
+P1003,Dr. Lee,Clinic C,June 2023,350000,52500,210000,18000,140000,Final Bill,42,3.5,82,850,10,411.76,247.06,21.18,1300,Laboratory and Pathology Services,Authorization Missing
+P1004,Dr. Patel,Clinic B,July 2023,420000,63000,252000,21000,168000,Final Bill,40,2.8,88,1050,20,400.00,240.00,20.00,1600,Laboratory and Pathology Services,Incorrect Coding
+P1007,Dr. Chen,Clinic D,July 2023,600000,90000,360000,30000,240000,Final Bill,50,4.0,80,1500,12,400.00,240.00,20.00,2200,Laboratory and Pathology Services,Incomplete Information
+P1003,Dr. Lee,Clinic C,July 2023,275000,41250,165000,13750,110000,Final Bill,38,2.5,89,700,18,392.86,235.71,19.64,1100,Laboratory and Pathology Services,Incorrect Coding
+P1004,Dr. Patel,Clinic B,August 2023,475000,41250,165000,13750,110000,Final Bill,38,2.5,89,700,18,392.86,235.71,19.64,1100,Laboratory and Pathology Services,Eligibility Issues
+P1001,Dr. Smith,Clinic A,August 2023,555000,41250,165000,13750,110000,Final Bill,38,2.5,89,700,18,392.86,235.71,19.64,1100,Laboratory and Pathology Services,Eligibility Issues
+P1001,Dr. Smith,Clinic B,August 2023,280000,72000,288000,24000,192000,Final Bill,47,3.8,83,1250,14,384.00,230.40,19.20,1950,Laboratory and Pathology Services,Incorrect Coding
+P1002,Dr. Johnson,Clinic A,September 2023,590000,78000,312000,26000,208000,Final Bill,46,3.3,86,1250,16,416.00,249.60,20.80,1900,Surgical Procedures,Incomplete Information
+P1006,Dr. Wilson,Clinic C,September 2023,940000,66000,264000,22000,176000,Final Bill,41,2.9,87,1100,22,400.00,240.00,21.82,1650,Surgical Procedures,Incomplete Information
+P1007,Dr. Chen,Clinic D,September 2023,910000,46500,186000,15500,124000,Final Bill,36,2.4,91,800,25,387.50,232.50,19.38,1200,Surgical Procedures,Incomplete Information
+P1003,Dr. Lee,Clinic C,October 2023,590000,88500,354000,29500,236000,Final Bill,49,4.1,81,1550,11,380.65,228.39,19.03,2250,Surgical Procedures,Incomplete Information
+P1004,Dr. Patel,Clinic B,October 2023,500000,75000,300000,25000,200000,Final Bill,45,3.2,85,1200,15,416.67,250.00,20.83,1850,Surgical Procedures,Incomplete Information
+P1001,Dr. Smith,Clinic A,October 2023,350000,52500,210000,18000,140000,Final Bill,42,3.5,82,850,10,411.76,247.06,21.18,1300,Surgical Procedures,Incorrect Coding
+P1002,Dr. Johnson,Clinic A,November 2023,820000,63000,252000,21000,168000,DFNB in Suspense,40,2.8,88,1050,20,400.00,240.00,20.00,1600,Surgical Procedures,Incorrect Coding
+P1006,Dr. Wilson,Clinic C,November 2023,800000,90000,360000,30000,240000,DFNB in Suspense,50,4.0,80,1500,12,400.00,240.00,20.00,2200,Rehabilitative Services,Eligibility Issues
+P1007,Dr. Chen,Clinic D,November 2023,675000,41250,165000,13750,110000,DFNB in Suspense,38,2.5,89,700,18,392.86,235.71,19.64,1100,Rehabilitative Services,Eligibility Issues
+P1003,Dr. Lee,Clinic C,December 2023,840000,66000,264000,22000,176000,DFNB in Suspense,41,2.9,87,1100,22,400.00,240.00,21.82,1650,Rehabilitative Services,Incomplete Information
+P1004,Dr. Patel,Clinic B,December 2023,910000,46500,186000,15500,124000,DFNB in Suspense,36,2.4,91,800,25,387.50,232.50,19.38,1200,Rehabilitative Services,Incomplete Information
+P1007,Dr. Chen,Clinic D,December 2023,975000,41250,165000,13750,110000,DFNB in Suspense,38,2.5,89,700,18,392.86,235.71,19.64,1100,Rehabilitative Services,Incorrect Coding
